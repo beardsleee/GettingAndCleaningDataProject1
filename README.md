@@ -7,6 +7,7 @@ that I am interested in are the one which have been labeled to be the mean "mean
 "std()" of the measurements.
 
 The following high level steps are executed by the script:
+
 1. Download the data into the current R working directory file structure
 2. Create a combined file of all the observations by appending the files
 3. Select the features that are of interest using a regular expression to find the mean() and std()
